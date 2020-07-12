@@ -1,6 +1,6 @@
 # J.A.R.V.I.S
 
-
+rishu
 A virtual assistant is a person who provides various service to entrepreneurs or business from a remote location.It is a virtual assistant that will perform various administrative tasks.
 There us a host of things that virtual assistant can do including
 • weather forecast
